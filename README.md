@@ -2,26 +2,12 @@
 
 ## Overview
 This repository contains my solutions, projects, and notes from the CS50: Artificial Intelligence with Python course 
-offered by Harvard University. This course explores the concepts and applications of artificial intelligence, 
-covering topics such as search algorithms, machine learning, optimization, and more.
+offered by Harvard University. The course provides a solid foundation in AI, covering various topics such as search algorithms, optimization, machine learning, natural language processing, and reinforcement learning. Through hands-on projects and assignments, students learn to apply AI principles to solve real-world problems.
 
-## Course structure
+## Learning Outcomes
+By the end of the course, students will be able to:
 
-The course is divided into several weeks, each focusing on different aspects of artificial intelligence. The key topics covered include:
-
-### Search Algorithms: 
-  * Uninformed and informed search strategies.
-### Knowledge Representation: 
-  * Propositional and first-order logic.
-### Planning: 
-  * Problem-solving through planning algorithms.
-### Optimization: 
-  * Constraint satisfaction problems and optimization techniques.
-### Machine Learning: 
-  * Supervised learning, regression, and classification.
-###  Neural Networks: 
-  * Fundamentals of neural networks and deep learning.
-### Natural Language Processing: 
-  * Techniques for processing and understanding human language.
-### Ethics in AI: 
-  * Ethical considerations and societal impacts of AI.
+- Design and implement AI algorithms for different tasks
+- Understand the theoretical underpinnings of AI techniques
+- Apply machine learning models to analyze and interpret data
+- Develop AI-based applications to solve complex problems
